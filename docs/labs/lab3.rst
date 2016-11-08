@@ -62,7 +62,7 @@ Note that the command failed.  The container does not exist on this host.  Now r
 
 .. note::
 
-   The option '–-rm' specify that the container should be automatically removed with it exits 
+   The option '–-rm' specifies that the container should be automatically removed when it exits 
 
 .. image:: ../images/lab3-dockertag-docker-run-success.png
    :align: center
